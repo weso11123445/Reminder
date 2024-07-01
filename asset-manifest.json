@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reminder/static/css/main.16081748.css",
+    "main.js": "/Reminder/static/js/main.7ae1b7e2.js",
+    "index.html": "/Reminder/index.html",
+    "main.16081748.css.map": "/Reminder/static/css/main.16081748.css.map",
+    "main.7ae1b7e2.js.map": "/Reminder/static/js/main.7ae1b7e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16081748.css",
+    "static/js/main.7ae1b7e2.js"
+  ]
+}
